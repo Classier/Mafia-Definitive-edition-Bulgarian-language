@@ -12,3 +12,6 @@
 Видео:
 1: https://www.youtube.com/watch?v=1wJDx3BKYN4
 2: https://www.youtube.com/watch?v=nqzKb3Dcq3o
+
+![2](https://user-images.githubusercontent.com/18502735/118404723-bdb6b600-b67c-11eb-8d55-9440c316693c.jpg)
+![1](https://user-images.githubusercontent.com/18502735/118404728-c1e2d380-b67c-11eb-8c52-08bfd70c8e74.jpg)
