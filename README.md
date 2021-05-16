@@ -9,6 +9,7 @@
 ### Приятна игра!
 ###   Fairytale™
 
+Ако харесате превода и бихте желали да подкрепите бъдещи преводи, може да го направите с избрана от вас сума чрез PayPal или карта. Високо се ценят всякакви дарения.
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=sony%40abv.bg&currency_code=EUR)
 
 Видео:
