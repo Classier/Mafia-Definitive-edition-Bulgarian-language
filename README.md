@@ -9,6 +9,8 @@
 ### Приятна игра!
 ###   Fairytale™
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=sony%40abv.bg&currency_code=EUR)
+
 Видео:
 1: https://www.youtube.com/watch?v=1wJDx3BKYN4
 2: https://www.youtube.com/watch?v=nqzKb3Dcq3o
