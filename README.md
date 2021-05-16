@@ -6,7 +6,7 @@
 Инсталиране — заменете вашия файл stringtable_ru.sds с този от архива. Намира се в инсталационната директория на вашия диск: Mafia - Definitive Edition\sds_retail\string_tables.
 Играта ще стартира на първоначално избрания език, вероятно сте избрали английски. За да промените езика, отидете в менюто на играта OPTIONS>GAME и изберете опцията RESET GAME LAMGUAGE. За display изберете "русский". Текстът на точно тази дума не се намира в този файл, така че просто трябва да знаете, че "русский" е "български".
 ## Приятна игра!
-###   Fairytale™
+##   Fairytale™
 
 Ако харесате превода и бихте желали да подкрепите бъдещи преводи, може да го направите с избрана от вас сума чрез PayPal или карта. Високо се ценят всякакви дарения:
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=sony%40abv.bg&currency_code=EUR)
