@@ -1,6 +1,6 @@
 # Mafia-Definitive-edition-Bulgarian-language
 Български език за римейка на играта Mafia
-
+![800px-Mafia_-_Definitive_Edition_logo](https://user-images.githubusercontent.com/18502735/118509762-03d14f80-b739-11eb-84b6-305b0f25f0c5.png)
 Това е български език за римейка на играта Mafia Definitive Edition от 2020 година.
 Историята е изцяло преведена. Съдържанито в «свободен режим» също. В него има 12 мисии. Част от странични действия, като интеракция с полицията, кражби на коли, безразборна стрелба по улиците и т.н, може да са с непреведени текстове.  
 Инсталиране — изтеглете и заменете вашия файл stringtable_ru.sds. Намира се в инсталационната директория на вашия диск: Mafia - Definitive Edition\sds_retail\string_tables.
